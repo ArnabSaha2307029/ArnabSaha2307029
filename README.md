@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Arnab Saha 
 
-<!--
-**ArnabSaha2307029/ArnabSaha2307029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate developer who loves coding, building projects, and learning new technologies. I enjoy working on open-source projects and collaborating with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- 💻 Programming Languages: [Your favorite languages, e.g., Python, JavaScript, C++]
+- 🌐 Web Development: [React, Node.js, HTML, CSS]
+- 🛠️ Tools & Platforms: [Git, Docker, Linux]
+- 📊 Data & AI: [Machine Learning, Data Science, TensorFlow]
+
+Thanks for visiting my profile! Feel free to connect and collaborate. 😊
+
